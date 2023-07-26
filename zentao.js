@@ -4,7 +4,7 @@
 // @version     0.0.1
 // @author      lzghzr
 // @description 修复bilibili直播弹幕
-// @supportURL  https://github.com/lzghzr/TampermonkeyJS/issues
+// @supportURL  https://github.com/lanningsix/tamper-monkey/issues
 // @include     /^https:\/\/live\.bilibili\.com\/(?:blanc\/)?\d/
 // @require     https://fastly.jsdelivr.net/gh/lzghzr/TampermonkeyJS@e4c2e5a14b55a5a0a3fab43f206496cb30c9b6e6/bliveproxy/bliveproxy.js
 // @license     MIT
